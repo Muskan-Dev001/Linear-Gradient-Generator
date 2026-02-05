@@ -15,5 +15,7 @@ A web to generate linear gradients using HTML, CSS and JavaScript. It generators
 ## 💡 What I Learned
 - DOM manipulation
 - Event handling
-- 
 - Working with CSS gradients
+
+## Live Demo
+https://muskan-dev001.github.io/Linear-Gradient-Generator/
